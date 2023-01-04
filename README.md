@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finnlueth, call me Finn
-- 👀 I’m interested in Bioinformatics, Machine Learning, and Engineering
+- 👀 I’m interested in Bioinformatics, Machine Learning, Data Science and Software Engineering
 - 🌱 I’m currently learning about the things I am interested in
 - 📫 Reach out to me on my LinkedIn at: linkedin.com/in/finnlueth/
 
